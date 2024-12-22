@@ -1,0 +1,44 @@
+{
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "downfall": 0.8,
+  "effects": {
+    "sky_color": 3102410,
+    "fog_color": 3420722,
+    "water_color": 6379187,
+    "water_fog_color": 6379187,
+    "grass_color": 5162594,
+    "foliage_color": 6210965
+  },
+  "features": [
+    [],
+    [
+      "minecraft:disk_gravel"
+    ],
+    [
+      "artifacts_of_creation:rooted_placed",
+      "minecraft:glow_lichen",
+      "minecraft:patch_large_fern",
+      "minecraft:flower_default",
+      "minecraft:patch_grass_taiga_2"
+    ],
+    [],
+    [],
+    []
+  ],
+  "has_precipitation": true,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [],
+    "misc": [],
+    "monster": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "temperature": 6.25
+}

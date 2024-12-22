@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+      "type": "minecraft:flat",
+      "settings": {
+          "layers": [
+            {
+              "height": 1,
+              "block": "minecraft:bedrock"
+            },
+            {
+              "height": 3,
+              "block": "artifacts_of_creation:not"
+            }
+          ],
+          "biome": "artifacts_of_creation:time-zone",
+          "lakes": false,
+          "features": true
+      }
+  }
+}

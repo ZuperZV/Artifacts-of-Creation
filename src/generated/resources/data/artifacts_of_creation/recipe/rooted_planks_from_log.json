@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "artifacts_of_creation:rooted_log"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "artifacts_of_creation:rooted_planks"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "artifacts_of_creation:block/rooted_crop_stage0"
+    },
+    "age=1": {
+      "model": "artifacts_of_creation:block/rooted_crop_stage1"
+    },
+    "age=2": {
+      "model": "artifacts_of_creation:block/rooted_crop_stage2"
+    },
+    "age=3": {
+      "model": "artifacts_of_creation:block/rooted_crop_stage3"
+    }
+  }
+}

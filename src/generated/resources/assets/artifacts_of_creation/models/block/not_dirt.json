@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "artifacts_of_creation:block/not_dirt"
+  }
+}

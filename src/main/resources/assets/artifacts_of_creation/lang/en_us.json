@@ -1,0 +1,20 @@
+{
+  "creativetab.artifacts_of_creation.artifacts_of_creation_tab": "Artifacts Of Creation",
+
+
+  "item.artifacts_of_creation.temporal_seed": "Temporal Seed",
+
+
+  "block.artifacts_of_creation.rooted_log": "Rooted Log",
+  "block.artifacts_of_creation.rooted_planks": "Rooted Planks",
+  "block.artifacts_of_creation.rooted_wood": "Rooted Wood",
+  "block.artifacts_of_creation.stripped_rooted_log": "Stripped Rooted Log",
+  "block.artifacts_of_creation.stripped_rooted_wood": "Stripped Rooted Wood",
+  "block.artifacts_of_creation.rooted_leaves": "Rooted Leaves",
+
+  "block.artifacts_of_creation.rooted_sapling": "Rooted Sapling",
+  "block.artifacts_of_creation.rooted_crop": "Rooted Crop",
+  "block.artifacts_of_creation.not": "Not",
+  "block.artifacts_of_creation.not_dirt": "Not Dirt",
+  "block.artifacts_of_creation.not_farmland": "Not Farmland"
+}

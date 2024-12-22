@@ -1,0 +1,5 @@
+// 1.21	2024-12-22T23:28:28.5688108	Tags for minecraft:block mod id artifacts_of_creation
+a5a2d026c4c1c09ca43b7c959a7434c947b986ac data/artifacts_of_creation/tags/block/place_on_this.json
+d92e2dd5e447d4a90be025a854226283a2e4064e data/minecraft/tags/block/logs_that_burn.json
+2483ab7da919eb21c93035e8ce6c7e6a577ad9ed data/minecraft/tags/block/maintains_farmland.json
+d92e2dd5e447d4a90be025a854226283a2e4064e data/minecraft/tags/block/mineable/axe.json

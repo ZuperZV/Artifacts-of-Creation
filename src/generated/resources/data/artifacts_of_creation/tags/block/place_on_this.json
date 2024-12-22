@@ -1,0 +1,9 @@
+{
+  "values": [
+    "artifacts_of_creation:not",
+    "artifacts_of_creation:not_dirt",
+    "artifacts_of_creation:not_farmland",
+    "minecraft:dirt",
+    "minecraft:farmland"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "artifacts_of_creation:right_click",
+
+  "ingredient": {
+    "item": "artifacts_of_creation:not_dirt"
+  },
+
+  "output": {
+    "item": "artifacts_of_creation:temporal_seed"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "artifacts_of_creation:wood-zone",
+  "features": "artifacts_of_creation:rooted_placed",
+  "step": "vegetal_decoration"
+}

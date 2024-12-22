@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "artifacts_of_creation:block/rooted_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "artifacts_of_creation:block/rooted_log"
+    },
+    "axis=z": {
+      "model": "artifacts_of_creation:block/rooted_log_horizontal",
+      "x": 90
+    }
+  }
+}

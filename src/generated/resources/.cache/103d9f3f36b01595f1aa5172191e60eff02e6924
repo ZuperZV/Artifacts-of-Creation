@@ -1,0 +1,6 @@
+// 1.21	2024-12-22T15:39:36.6927162	Registries
+fc58214115e9850e3f9475cdbf86916378e0806d data/artifacts_of_creation/neoforge/biome_modifier/add_tree_rooted.json
+7ae89de371c56d5e9565e75e76fbed3fc80e39d5 data/artifacts_of_creation/worldgen/configured_feature/dirt.json
+001b1f9c4aa3bf42f620af65fc2a4c4b1a3b552c data/artifacts_of_creation/worldgen/configured_feature/rooted.json
+2dd1019f52af6cf08c5b50743dfe8be3500d1ffe data/artifacts_of_creation/worldgen/placed_feature/dirt_placed.json
+fd37d9d333fa78c6918194d0348a2e48b796fc8c data/artifacts_of_creation/worldgen/placed_feature/rooted_placed.json
